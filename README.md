@@ -23,4 +23,4 @@ In this repository, I have used Physics Informed Neural Networks to solve the Bu
  - numpy <br>
 
 # Results<br>
-Results can be viewed in 'output.png' file.
+Results can be viewed in 'output.jpg' file.
